@@ -133,7 +133,7 @@ no = totalCount - (currentPage - 1) * perPage;
 				<th width="100">메인 이미지</th>
 				<th width="400">제목
 				</th>
-				<th width="100">작성자
+				<th width="120">작성자
 				</th>
 				<th width="150">작성일
 				</th>
